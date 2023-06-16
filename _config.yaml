@@ -1,16 +1,15 @@
-title: taedaniellim
-subtitle: by the Greene Lab
-description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
+title: Şen Receptorology Lab
+subtitle: Principal Investigator Mehmet Şen
+description: UNRAVELING THE MYSTERIES OF PHYSICAL AND CHEMICAL REGULATORY MECHANISMS IN PROTEIN FUNCTION
+header: images/fibrinogen.jpg
 footer: images/background.jpg
 links:
-  email: contact@your-lab.com
+  email: SenLab@uh.edu
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  twitter: TheSenLab
+  instagram: TheSenLab
+  youtube: TheSenLab
 defaults:
   - scope:
       path: ""

@@ -1,12 +1,12 @@
 ---
-name: Jane Smith UPDATE
+name: Mehmet Şen
 image: images/photo.jpg
 role: pi
 aliases:
-  - J. Smith
-  - J Smith
+  - M. Şen
+  - M Şen
 links:
-  home-page: https://janesmith.com
+  home-page: https://uh.edu/nsm/biology-biochemistry/people/profiles/mehmet-sen/
   orcid: 0000-0001-8713-9213
 ---
 
