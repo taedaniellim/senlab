@@ -7,7 +7,7 @@ aliases:
   - M Şen
 links:
   home-page: https://uh.edu/nsm/biology-biochemistry/people/profiles/mehmet-sen/
-  orcid: 0000-0001-8713-9213
+  orcid: 
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

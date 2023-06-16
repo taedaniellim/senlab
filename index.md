@@ -9,6 +9,8 @@
 
 {% capture text %}
 
+Our research interests lie in the structural and functional basis of receptor–ligand interactions, which are relevant to human health and disease.
+
 {%
   include button.html
   link="research"
@@ -30,7 +32,7 @@
 
 {% capture text %}
 
-Our research interests lie in the structural and functional basis of receptor–ligand interactions, which are relevant to human health and disease. Much of our studies aim to elucidate the molecular recognition properties governing receptor interactions with a ligand, and subsequent molecular events that couple ligand recognition to receptor activation. 
+Much of our projects aim to elucidate the molecular recognition properties governing receptor interactions with a ligand, and subsequent molecular events that couple ligand recognition to receptor activation. 
 
 {%
   include button.html
@@ -55,7 +57,7 @@ Our research interests lie in the structural and functional basis of receptor–
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Come meet our amazing team!
 
 {%
   include button.html
