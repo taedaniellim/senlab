@@ -22,25 +22,6 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. --
 
 {% include section.html %}
 
-# {% include icon.html icon="fa-solid fa-users" %}Alumni Team Members
-
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
-
-{% include section.html %}
-
-# {% include icon.html icon="fa-solid fa-users" %}Collaborative Team Members
-
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
-
-{% include section.html %}
-
-
 {% capture content %}
 
   {% include figure.html image="images/photo.jpg" %}
