@@ -5,8 +5,8 @@ header: images/fibrinogen.jpg
 footer: images/background.jpg
 links:
   email: SenLab@uh.edu
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  orcid: 
+  google-scholar: LdH0ASYAAAAJ
   twitter: TheSenLab
   instagram: TheSenLab
   youtube: TheSenLab
@@ -45,8 +45,8 @@ exclude:
   - README.md
   - LICENSE.md
   - CITATION.cff
-email: contact@taedaniellim.com
-github: taedaniellim
-twitter: taedaniellim
-instagram: taedaniellim
-youtube: taedaniellim
+# email: contact@taedaniellim.com
+# github: taedaniellim
+# twitter: taedaniellim
+# instagram: taedaniellim
+# youtube: taedaniellim

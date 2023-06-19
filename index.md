@@ -1,9 +1,9 @@
 ---
 ---
 
-# UNRAVELING THE MYSTERIES OF PHYSICAL AND CHEMICAL REGULATORY MECHANISMS IN PROTEIN FUNCTION
+# UNRAVELING THE MYSTERIES OF PHYSIOCHEMICAL REGULATORY MECHANISMS IN PROTEIN FUNCTION
 
-{% include section.html %}
+{% include section.html background="images/fibrinogen.jpg" dark=true %}
 
 ## Highlights
 
