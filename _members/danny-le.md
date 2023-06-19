@@ -1,7 +1,7 @@
 ---
 name: Danny Le
 image: images/danny.jpg
-role: undergraduate
+role: Undergraduate Student
 group: current
 ---
 

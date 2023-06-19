@@ -1,7 +1,7 @@
 ---
 name: Hy Cao
 image: images/hy.jpeg
-role: undergraduate
+role: Undergraduate Student
 group: current
 ---
 
