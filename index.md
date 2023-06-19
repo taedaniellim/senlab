@@ -3,7 +3,7 @@
 
 # UNRAVELING THE MYSTERIES OF PHYSIOCHEMICAL REGULATORY MECHANISMS IN PROTEIN FUNCTION
 
-{% include section.html background="images/fibrinogen.jpg" dark=true %}
+{% include section.html background="images/fibrinogen.jpg"%}
 
 ## Highlights
 
